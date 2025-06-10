@@ -1,6 +1,4 @@
-# Sarvanam Software Portfolio Website
-
-A modern, responsive portfolio website for Sarvanam Software Pvt. Ltd., a company established in 2016 that provides tailored solutions and services to the hospitality and tourism industry in Nepal.
+# Prabin Acharya's Portfolio Website
 
 ## Features
 
@@ -54,8 +52,7 @@ src/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/sarvanam-software-portfolio.git
-cd sarvanam-software-portfolio
+
 ```
 
 2. Install dependencies
@@ -90,6 +87,5 @@ MIT
 
 ## Contact
 
-Sarvanam Software Pvt. Ltd.
-- Email: info@sarvanam.com
-- Website: https://www.sarvanam.com
+Prabin Acharya
+- Email: acharyaprabin17@gmail.com
